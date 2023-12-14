@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 14 Dec 2023 09:44:05 GMT</pubDate>
+    <pubDate>Thu, 14 Dec 2023 09:50:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>github代码无法拉取</title>
+      <link>https://tskfok.github.io/2023/12/14/git-error/</link>
+      <guid>https://tskfok.github.io/2023/12/14/git-error/</guid>
+      <pubDate>Thu, 14 Dec 2023 09:48:34 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;github代码无法拉取解决方法&quot;&gt;&lt;a href=&quot;#github代码无法拉取解决方法&quot; class=&quot;headerlink&quot; title=&quot;github代码无法拉取解决方法&quot;&gt;&lt;/a&gt;github代码无法拉取解决方法&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/git/">git</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/12/14/git-error/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>搭建frp内网穿透</title>
@@ -424,27 +443,6 @@
       
       
       <comments>https://tskfok.github.io/2023/06/01/linkding/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>webdav</title>
-      <link>https://tskfok.github.io/2023/06/01/webdav/</link>
-      <guid>https://tskfok.github.io/2023/06/01/webdav/</guid>
-      <pubDate>Thu, 01 Jun 2023 08:59:01 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;搭建webdav&quot;&gt;&lt;a href=&quot;#搭建webdav&quot; class=&quot;headerlink&quot; title=&quot;搭建webdav&quot;&gt;&lt;/a&gt;搭建webdav&lt;/h3&gt;</description>
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
-      
-      
-      <category domain="https://tskfok.github.io/tags/webdav/">webdav</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/06/01/webdav/#disqus_thread</comments>
       
     </item>
     

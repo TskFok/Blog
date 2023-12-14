@@ -6,7 +6,7 @@
   <link href="https://tskfok.github.io/atom.xml" rel="self"/>
   
   <link href="https://tskfok.github.io/"/>
-  <updated>2023-12-14T09:44:05.247Z</updated>
+  <updated>2023-12-14T09:50:15.675Z</updated>
   <id>https://tskfok.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github代码无法拉取</title>
+    <link href="https://tskfok.github.io/2023/12/14/git-error/"/>
+    <id>https://tskfok.github.io/2023/12/14/git-error/</id>
+    <published>2023-12-14T09:48:34.000Z</published>
+    <updated>2023-12-14T09:50:15.675Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;github代码无法拉取解决方法&quot;&gt;&lt;a href=&quot;#github代码无法拉取解决方法&quot; class=&quot;headerlink&quot; title=&quot;github代码无法拉取解决方法&quot;&gt;&lt;/a&gt;github代码无法拉取解决方法&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="git" scheme="https://tskfok.github.io/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>搭建frp内网穿透</title>
@@ -384,25 +401,6 @@
     
     
     <category term="linkding" scheme="https://tskfok.github.io/tags/linkding/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>webdav</title>
-    <link href="https://tskfok.github.io/2023/06/01/webdav/"/>
-    <id>https://tskfok.github.io/2023/06/01/webdav/</id>
-    <published>2023-06-01T08:59:01.000Z</published>
-    <updated>2023-12-14T09:42:43.321Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;搭建webdav&quot;&gt;&lt;a href=&quot;#搭建webdav&quot; class=&quot;headerlink&quot; title=&quot;搭建webdav&quot;&gt;&lt;/a&gt;搭建webdav&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="实用工具" scheme="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="webdav" scheme="https://tskfok.github.io/tags/webdav/"/>
     
   </entry>
   
