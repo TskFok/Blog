@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每天进步一点点🤏</title>
+    <link>https://tskfok.github.io/</link>
+    
+    <image>
+      <url>https://tskfok.github.io/icon.png</url>
+      <title>每天进步一点点🤏</title>
+      <link>https://tskfok.github.io/</link>
+    </image>
+    
+    <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 14 Dec 2023 09:44:05 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>搭建frp内网穿透</title>
+      <link>https://tskfok.github.io/2023/12/14/frp/</link>
+      <guid>https://tskfok.github.io/2023/12/14/frp/</guid>
+      <pubDate>Thu, 14 Dec 2023 06:40:23 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;使用frp搭建内网穿透&quot;&gt;&lt;a href=&quot;#使用frp搭建内网穿透&quot; class=&quot;headerlink&quot; title=&quot;使用frp搭建内网穿透&quot;&gt;&lt;/a&gt;使用frp搭建内网穿透&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/frp/">frp</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/12/14/frp/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>calibre小说阅读器</title>
+      <link>https://tskfok.github.io/2023/11/06/calibre/</link>
+      <guid>https://tskfok.github.io/2023/11/06/calibre/</guid>
+      <pubDate>Mon, 06 Nov 2023 09:57:23 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;calibre小说阅读器&quot;&gt;&lt;a href=&quot;#calibre小说阅读器&quot; class=&quot;headerlink&quot; title=&quot;calibre小说阅读器&quot;&gt;&lt;/a&gt;calibre小说阅读器&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8/">小说阅读器</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/calibre/">calibre</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/11/06/calibre/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>go-slice</title>
+      <link>https://tskfok.github.io/2023/10/10/go-slice/</link>
+      <guid>https://tskfok.github.io/2023/10/10/go-slice/</guid>
+      <pubDate>Tue, 10 Oct 2023 09:33:36 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;go-slice使用&quot;&gt;&lt;a href=&quot;#go-slice使用&quot; class=&quot;headerlink&quot; title=&quot;go slice使用&quot;&gt;&lt;/a&gt;go slice使用&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/go/">go</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/go/">go</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/10/10/go-slice/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>unraid使用xunlei</title>
+      <link>https://tskfok.github.io/2023/07/28/unraid-xunlei/</link>
+      <guid>https://tskfok.github.io/2023/07/28/unraid-xunlei/</guid>
+      <pubDate>Fri, 28 Jul 2023 07:42:03 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;unraid使用xunlei&quot;&gt;&lt;a href=&quot;#unraid使用xunlei&quot; class=&quot;headerlink&quot; title=&quot;unraid使用xunlei&quot;&gt;&lt;/a&gt;unraid使用xunlei&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
+      
+      <category domain="https://tskfok.github.io/tags/xunlei/">xunlei</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/28/unraid-xunlei/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>unraid使用jellyfin电影海报墙</title>
+      <link>https://tskfok.github.io/2023/07/28/unraid-jellyfin/</link>
+      <guid>https://tskfok.github.io/2023/07/28/unraid-jellyfin/</guid>
+      <pubDate>Fri, 28 Jul 2023 07:33:22 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;unraid使用jellyfin电影海报墙&quot;&gt;&lt;a href=&quot;#unraid使用jellyfin电影海报墙&quot; class=&quot;headerlink&quot; title=&quot;unraid使用jellyfin电影海报墙&quot;&gt;&lt;/a&gt;unraid使用jellyfin电影海报墙&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
+      
+      <category domain="https://tskfok.github.io/tags/jellyfin/">jellyfin</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/28/unraid-jellyfin/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>unraid使用ddnsto进行内网穿透</title>
+      <link>https://tskfok.github.io/2023/07/28/unraid-ddnsto/</link>
+      <guid>https://tskfok.github.io/2023/07/28/unraid-ddnsto/</guid>
+      <pubDate>Fri, 28 Jul 2023 07:23:55 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;unraid使用ddnsto进行内网穿透&quot;&gt;&lt;a href=&quot;#unraid使用ddnsto进行内网穿透&quot; class=&quot;headerlink&quot; title=&quot;unraid使用ddnsto进行内网穿透&quot;&gt;&lt;/a&gt;unraid使用ddnsto进行内网穿透&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
+      
+      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
+      
+      <category domain="https://tskfok.github.io/tags/ddnsto/">ddnsto</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/28/unraid-ddnsto/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>unraid安装debian</title>
+      <link>https://tskfok.github.io/2023/07/28/unraid-debian/</link>
+      <guid>https://tskfok.github.io/2023/07/28/unraid-debian/</guid>
+      <pubDate>Fri, 28 Jul 2023 07:10:14 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;unraid安装debian&quot;&gt;&lt;a href=&quot;#unraid安装debian&quot; class=&quot;headerlink&quot; title=&quot;unraid安装debian&quot;&gt;&lt;/a&gt;unraid安装debian&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
+      
+      <category domain="https://tskfok.github.io/tags/debian/">debian</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/28/unraid-debian/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>unraid安装openwrt</title>
+      <link>https://tskfok.github.io/2023/07/28/unraid-openwrt/</link>
+      <guid>https://tskfok.github.io/2023/07/28/unraid-openwrt/</guid>
+      <pubDate>Fri, 28 Jul 2023 06:53:32 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;unraid安装openwrt&quot;&gt;&lt;a href=&quot;#unraid安装openwrt&quot; class=&quot;headerlink&quot; title=&quot;unraid安装openwrt&quot;&gt;&lt;/a&gt;unraid安装openwrt&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
+      
+      <category domain="https://tskfok.github.io/tags/openwrt/">openwrt</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/28/unraid-openwrt/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>unraid安装黑群晖</title>
+      <link>https://tskfok.github.io/2023/07/28/unraid-dsm/</link>
+      <guid>https://tskfok.github.io/2023/07/28/unraid-dsm/</guid>
+      <pubDate>Fri, 28 Jul 2023 06:33:22 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;unraid安装黑群晖&quot;&gt;&lt;a href=&quot;#unraid安装黑群晖&quot; class=&quot;headerlink&quot; title=&quot;unraid安装黑群晖&quot;&gt;&lt;/a&gt;unraid安装黑群晖&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
+      
+      <category domain="https://tskfok.github.io/tags/dsm/">dsm</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/28/unraid-dsm/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>docker-redis</title>
+      <link>https://tskfok.github.io/2023/07/05/docker-redis/</link>
+      <guid>https://tskfok.github.io/2023/07/05/docker-redis/</guid>
+      <pubDate>Wed, 05 Jul 2023 09:28:56 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;在docker中搭建redis&quot;&gt;&lt;a href=&quot;#在docker中搭建redis&quot; class=&quot;headerlink&quot; title=&quot;在docker中搭建redis&quot;&gt;&lt;/a&gt;在docker中搭建redis&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/redis/">redis</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/05/docker-redis/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>chat-ui</title>
+      <link>https://tskfok.github.io/2023/07/05/chat-ui/</link>
+      <guid>https://tskfok.github.io/2023/07/05/chat-ui/</guid>
+      <pubDate>Wed, 05 Jul 2023 07:19:13 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;使用docker部署chat-ui&quot;&gt;&lt;a href=&quot;#使用docker部署chat-ui&quot; class=&quot;headerlink&quot; title=&quot;使用docker部署chat-ui&quot;&gt;&lt;/a&gt;使用docker部署chat-ui&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/vue/">vue</category>
+      
+      <category domain="https://tskfok.github.io/tags/chat/">chat</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/05/chat-ui/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>chat-admin-ui</title>
+      <link>https://tskfok.github.io/2023/07/05/chat-admin-ui/</link>
+      <guid>https://tskfok.github.io/2023/07/05/chat-admin-ui/</guid>
+      <pubDate>Wed, 05 Jul 2023 07:18:13 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;使用docker部署chat-admin后台ui&quot;&gt;&lt;a href=&quot;#使用docker部署chat-admin后台ui&quot; class=&quot;headerlink&quot; title=&quot;使用docker部署chat-admin后台ui&quot;&gt;&lt;/a&gt;使用docker部署chat-admin后台ui&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/vue/">vue</category>
+      
+      <category domain="https://tskfok.github.io/tags/chat-admin/">chat-admin</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/05/chat-admin-ui/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>dhparam证书</title>
+      <link>https://tskfok.github.io/2023/07/05/dhparam/</link>
+      <guid>https://tskfok.github.io/2023/07/05/dhparam/</guid>
+      <pubDate>Wed, 05 Jul 2023 05:29:12 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;生成2048位的dhparam的证书&quot;&gt;&lt;a href=&quot;#生成2048位的dhparam的证书&quot; class=&quot;headerlink&quot; title=&quot;生成2048位的dhparam的证书&quot;&gt;&lt;/a&gt;生成2048位的dhparam的证书&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/dhparam/">dhparam</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/05/dhparam/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>headscale-derp</title>
+      <link>https://tskfok.github.io/2023/07/03/headscale-derp/</link>
+      <guid>https://tskfok.github.io/2023/07/03/headscale-derp/</guid>
+      <pubDate>Mon, 03 Jul 2023 05:45:43 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;搭建derp中继服务-纯ip没有域名&quot;&gt;&lt;a href=&quot;#搭建derp中继服务-纯ip没有域名&quot; class=&quot;headerlink&quot; title=&quot;搭建derp中继服务(纯ip没有域名)&quot;&gt;&lt;/a&gt;搭建derp中继服务(纯ip没有域名)&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/07/03/headscale-derp/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>navidrome</title>
+      <link>https://tskfok.github.io/2023/06/30/navidrome/</link>
+      <guid>https://tskfok.github.io/2023/06/30/navidrome/</guid>
+      <pubDate>Fri, 30 Jun 2023 08:31:36 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;安装navidrome音乐服务器&quot;&gt;&lt;a href=&quot;#安装navidrome音乐服务器&quot; class=&quot;headerlink&quot; title=&quot;安装navidrome音乐服务器&quot;&gt;&lt;/a&gt;安装navidrome音乐服务器&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/">音乐服务器</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/06/30/navidrome/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>headscale-ugreen</title>
+      <link>https://tskfok.github.io/2023/06/29/headscale-ugreen/</link>
+      <guid>https://tskfok.github.io/2023/06/29/headscale-ugreen/</guid>
+      <pubDate>Thu, 29 Jun 2023 02:43:53 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;绿联云连接自建headscale&quot;&gt;&lt;a href=&quot;#绿联云连接自建headscale&quot; class=&quot;headerlink&quot; title=&quot;绿联云连接自建headscale&quot;&gt;&lt;/a&gt;绿联云连接自建headscale&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
+      
+      <category domain="https://tskfok.github.io/tags/%E7%BB%BF%E8%81%94%E4%BA%91/">绿联云</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/06/29/headscale-ugreen/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>headscale</title>
+      <link>https://tskfok.github.io/2023/06/28/headscale/</link>
+      <guid>https://tskfok.github.io/2023/06/28/headscale/</guid>
+      <pubDate>Wed, 28 Jun 2023 08:51:55 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;搭建内网穿透服务器&quot;&gt;&lt;a href=&quot;#搭建内网穿透服务器&quot; class=&quot;headerlink&quot; title=&quot;搭建内网穿透服务器&quot;&gt;&lt;/a&gt;搭建内网穿透服务器&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/06/28/headscale/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>filebrowser文件管理工具</title>
+      <link>https://tskfok.github.io/2023/06/02/filebrowser/</link>
+      <guid>https://tskfok.github.io/2023/06/02/filebrowser/</guid>
+      <pubDate>Fri, 02 Jun 2023 03:58:57 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;搭建filebrowser文件管理&quot;&gt;&lt;a href=&quot;#搭建filebrowser文件管理&quot; class=&quot;headerlink&quot; title=&quot;搭建filebrowser文件管理&quot;&gt;&lt;/a&gt;搭建filebrowser文件管理&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/filebrowser/">filebrowser</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/06/02/filebrowser/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>linkding书签</title>
+      <link>https://tskfok.github.io/2023/06/01/linkding/</link>
+      <guid>https://tskfok.github.io/2023/06/01/linkding/</guid>
+      <pubDate>Thu, 01 Jun 2023 10:22:54 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;搭建linkding书签管理&quot;&gt;&lt;a href=&quot;#搭建linkding书签管理&quot; class=&quot;headerlink&quot; title=&quot;搭建linkding书签管理&quot;&gt;&lt;/a&gt;搭建linkding书签管理&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/linkding/">linkding</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/06/01/linkding/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>webdav</title>
+      <link>https://tskfok.github.io/2023/06/01/webdav/</link>
+      <guid>https://tskfok.github.io/2023/06/01/webdav/</guid>
+      <pubDate>Thu, 01 Jun 2023 08:59:01 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;搭建webdav&quot;&gt;&lt;a href=&quot;#搭建webdav&quot; class=&quot;headerlink&quot; title=&quot;搭建webdav&quot;&gt;&lt;/a&gt;搭建webdav&lt;/h3&gt;</description>
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
+      
+      
+      <category domain="https://tskfok.github.io/tags/webdav/">webdav</category>
+      
+      
+      <comments>https://tskfok.github.io/2023/06/01/webdav/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
