@@ -24,7 +24,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://tskfok.github.io/2024/02/18/ollama/https:/img.adiosat.com/ollama%2Follama.png">
 <meta property="article:published_time" content="2024-02-18T03:56:42.000Z">
-<meta property="article:modified_time" content="2024-02-18T04:03:37.773Z">
+<meta property="article:modified_time" content="2024-02-18T06:18:52.476Z">
 <meta property="article:author" content="Y Y">
 <meta property="article:tag" content="ollama">
 <meta name="twitter:card" content="summary">
@@ -373,7 +373,7 @@
                     <i class="fa fa-edit"></i> 
                     
                     
-                        91
+                        1351
                     
                     字
                 </li>
@@ -383,7 +383,7 @@
         <div class="kratos-post-content">
             <div id="expire-alert" class="alert alert-warning hidden" role="alert">
                 <div class="icon"><i class="fa fa-warning"></i></div>
-                <div class="text"><p>本文最后编辑于 <time datetime="1708229017773"></time> 前，其中的内容可能需要更新。</p></div>
+                <div class="text"><p>本文最后编辑于 <time datetime="1708237132476"></time> 前，其中的内容可能需要更新。</p></div>
             </div>
             
             <hr />
@@ -393,9 +393,41 @@
 
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">下载地址:</span><br><span class="line">https://ollama.com/download/windows</span><br></pre></td></tr></table></figure>
 
-<h1>使用</h1>
+<h3>api调用</h3>
 
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run llama2</span><br></pre></td></tr></table></figure></div>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">文档地址:</span><br><span class="line">https://github.com/ollama/ollama/blob/main/docs/api.md</span><br><span class="line"></span><br><span class="line">curl -X POST http://localhost:11434/api/generate -d &#x27;&#123;</span><br><span class="line">  &quot;model&quot;: &quot;llama2&quot;,</span><br><span class="line">  &quot;prompt&quot;:&quot;Why is the sky blue?&quot;</span><br><span class="line"> &#125;&#x27;</span><br></pre></td></tr></table></figure>
+
+<h1>语言模型</h1>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run llama2</span><br></pre></td></tr></table></figure>
+
+<h1>识图模型</h1>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">ollama run llava &quot;describe this image: ./art.jpg&quot;</span><br><span class="line"></span><br><span class="line">./art.jpg是图片地址</span><br><span class="line"></span><br><span class="line">有三种型号</span><br><span class="line">ollama run llava:7b</span><br><span class="line">ollama run llava:13b</span><br><span class="line">ollama run llava:34b</span><br></pre></td></tr></table></figure>
+
+<h1>代码模型</h1>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">有三种型号</span><br><span class="line">ollama run codellama:7b</span><br><span class="line">ollama run codellama:13b</span><br><span class="line">ollama run codellama:34b</span><br></pre></td></tr></table></figure>
+
+<h3>代码纠错</h3>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">ollama run codellama &#x27;</span><br><span class="line">Where is the bug in this code?</span><br><span class="line"></span><br><span class="line">def fib(n):</span><br><span class="line">    if n &lt;= 0:</span><br><span class="line">        return n</span><br><span class="line">    else:</span><br><span class="line">        return fib(n-1) + fib(n-2)</span><br><span class="line">&#x27;</span><br></pre></td></tr></table></figure>
+
+<h3>写单元测试</h3>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ollama run codellama &quot;write a unit test for this function: $(cat main.go)&quot;</span><br><span class="line"></span><br><span class="line">main.go是需要但愿测试的文件</span><br></pre></td></tr></table></figure>
+
+<h3>根据已有的代码填充代码</h3>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">ollama run codellama &#x27;&lt;PRE&gt; func getString(x, y string): &lt;SUF&gt;return result &lt;MID&gt;&#x27;</span><br><span class="line"></span><br><span class="line">以上命令会在&lt;SUF&gt;位置填充根据x,y获取result字符串的代码</span><br><span class="line">类似var result = x + y</span><br><span class="line"></span><br><span class="line">响应结束会返回&lt;EOT&gt;标记</span><br></pre></td></tr></table></figure>
+
+<h1>数学模型</h1>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">有三种型号</span><br><span class="line">ollama run wizard-math:7b</span><br><span class="line">ollama run wizard-math:13b</span><br><span class="line">ollama run wizard-math:70b</span><br></pre></td></tr></table></figure>
+
+<h3>使用</h2>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run wizard-math &#x27;A right square pyramid has a base with edges each measuring 3 cm and a height twice the perimeter of its base. What is the volume of the pyramid?&#x27;</span><br></pre></td></tr></table></figure></div>
         </div>
         
         <footer class="kratos-entry-footer clearfix">
@@ -406,7 +438,7 @@
                     <a class="tag-none-link" href="/tags/ollama/" rel="tag">ollama</a>
                 </div>
                 <div class="pull-date">
-                    <time datetime="2024-02-18T04:03:37.773Z" itemprop="dateModified">最后编辑：2024-02-18</time>
+                    <time datetime="2024-02-18T06:18:52.476Z" itemprop="dateModified">最后编辑：2024-02-18</time>
                 </div>
             </div>
         </footer>
