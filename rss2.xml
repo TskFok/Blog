@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 25 Jan 2024 04:09:00 GMT</pubDate>
+    <pubDate>Sun, 18 Feb 2024 04:03:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>ollama本机大语言模型</title>
+      <link>https://tskfok.github.io/2024/02/18/ollama/</link>
+      <guid>https://tskfok.github.io/2024/02/18/ollama/</guid>
+      <pubDate>Sun, 18 Feb 2024 03:56:42 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;ollama本机大语言模型&quot;&gt;&lt;a href=&quot;#ollama本机大语言模型&quot; class=&quot;headerlink&quot; title=&quot;ollama本机大语言模型&quot;&gt;&lt;/a&gt;ollama本机大语言模型&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/ollama/">ollama</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/02/18/ollama/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>docker pull使用代理</title>
@@ -414,33 +433,12 @@
       <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
       
       
-      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
-      
       <category domain="https://tskfok.github.io/tags/%E7%BB%BF%E8%81%94%E4%BA%91/">绿联云</category>
+      
+      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
       
       
       <comments>https://tskfok.github.io/2023/06/29/headscale-ugreen/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>headscale</title>
-      <link>https://tskfok.github.io/2023/06/28/headscale/</link>
-      <guid>https://tskfok.github.io/2023/06/28/headscale/</guid>
-      <pubDate>Wed, 28 Jun 2023 08:51:55 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;搭建内网穿透服务器&quot;&gt;&lt;a href=&quot;#搭建内网穿透服务器&quot; class=&quot;headerlink&quot; title=&quot;搭建内网穿透服务器&quot;&gt;&lt;/a&gt;搭建内网穿透服务器&lt;/h3&gt;</description>
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
-      
-      
-      <category domain="https://tskfok.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/">内网穿透</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/06/28/headscale/#disqus_thread</comments>
       
     </item>
     
