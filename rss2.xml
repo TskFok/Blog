@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Tue, 20 Feb 2024 07:22:27 GMT</pubDate>
+    <pubDate>Wed, 06 Mar 2024 06:25:25 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>使用cloudflare access application对网址服务鉴权</title>
+      <link>https://tskfok.github.io/2024/03/06/cloudflare-application/</link>
+      <guid>https://tskfok.github.io/2024/03/06/cloudflare-application/</guid>
+      <pubDate>Wed, 06 Mar 2024 03:32:31 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;使用cloudflare-access-application对网址服务鉴权&quot;&gt;&lt;a href=&quot;#使用cloudflare-access-application对网址服务鉴权&quot; class=&quot;headerlink&quot; title=&quot;使用cloudflare access application对网址服务鉴权&quot;&gt;&lt;/a&gt;使用cloudflare access application对网址服务鉴权&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/cloudflare/">cloudflare</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/03/06/cloudflare-application/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>使用RSSWorker生成rss订阅连接</title>
@@ -414,27 +433,6 @@
       
       
       <comments>https://tskfok.github.io/2023/07/03/headscale-derp/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>navidrome</title>
-      <link>https://tskfok.github.io/2023/06/30/navidrome/</link>
-      <guid>https://tskfok.github.io/2023/06/30/navidrome/</guid>
-      <pubDate>Fri, 30 Jun 2023 08:31:36 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;安装navidrome音乐服务器&quot;&gt;&lt;a href=&quot;#安装navidrome音乐服务器&quot; class=&quot;headerlink&quot; title=&quot;安装navidrome音乐服务器&quot;&gt;&lt;/a&gt;安装navidrome音乐服务器&lt;/h3&gt;</description>
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/">实用工具</category>
-      
-      
-      <category domain="https://tskfok.github.io/tags/%E9%9F%B3%E4%B9%90%E6%9C%8D%E5%8A%A1%E5%99%A8/">音乐服务器</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/06/30/navidrome/#disqus_thread</comments>
       
     </item>
     
