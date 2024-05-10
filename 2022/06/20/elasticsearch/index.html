@@ -24,7 +24,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://tskfok.github.io/2022/06/20/elasticsearch/https:/img.adiosat.com/elasticsearch/elasticsearch.png">
 <meta property="article:published_time" content="2022-06-20T05:56:35.000Z">
-<meta property="article:modified_time" content="2024-04-26T08:47:43.785Z">
+<meta property="article:modified_time" content="2024-05-10T09:44:55.870Z">
 <meta property="article:author" content="Y Y">
 <meta property="article:tag" content="elasticsearch">
 <meta name="twitter:card" content="summary">
@@ -379,7 +379,7 @@
                     <i class="fa fa-edit"></i> 
                     
                     
-                        ~2.39K
+                        ~2.41K
                     
                     字
                 </li>
@@ -389,11 +389,13 @@
         <div class="kratos-post-content">
             <div id="expire-alert" class="alert alert-warning hidden" role="alert">
                 <div class="icon"><i class="fa fa-warning"></i></div>
-                <div class="text"><p>本文最后编辑于 <time datetime="1714121263785"></time> 前，其中的内容可能需要更新。</p></div>
+                <div class="text"><p>本文最后编辑于 <time datetime="1715334295870"></time> 前，其中的内容可能需要更新。</p></div>
             </div>
             
             <hr />
             <div itemprop="articleBody"><h3 id="elasticsearch的查询命令行"><a href="#elasticsearch的查询命令行" class="headerlink" title="elasticsearch的查询命令行"></a>elasticsearch的查询命令行</h3><span id="more"></span>
+
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">注意: 不要使用_id排序，性能很差</span><br></pre></td></tr></table></figure>
 
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">查询根据yyyyyyy聚合后, xxxxxxxx去重后数量&gt;1的记录 相当于mysql的having count &gt;1</span><br><span class="line">GET prod_delivery_file/_search</span><br><span class="line">&#123;</span><br><span class="line">  &quot;size&quot;: 0, </span><br><span class="line">  &quot;aggs&quot;: &#123;</span><br><span class="line">    &quot;refund&quot;: &#123;</span><br><span class="line">      &quot;aggs&quot;: &#123;</span><br><span class="line">        &quot;rs&quot;: &#123;</span><br><span class="line">          &quot;cardinality&quot;: &#123;</span><br><span class="line">            &quot;field&quot;: &quot;xxxxxxxx&quot;</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;,</span><br><span class="line">        &quot;count_filter&quot;: &#123;</span><br><span class="line">          &quot;bucket_selector&quot;: &#123;</span><br><span class="line">            &quot;buckets_path&quot;: &#123;</span><br><span class="line">              &quot;count&quot;: &quot;rs&quot;</span><br><span class="line">            &#125;,</span><br><span class="line">            &quot;script&quot;: &quot;params.count &gt; 1&quot;</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
@@ -424,7 +426,7 @@
                     <a class="tag-none-link" href="/tags/elasticsearch/" rel="tag">elasticsearch</a>
                 </div>
                 <div class="pull-date">
-                    <time datetime="2024-04-26T08:47:43.785Z" itemprop="dateModified">最后编辑：2024-04-26</time>
+                    <time datetime="2024-05-10T09:44:55.870Z" itemprop="dateModified">最后编辑：2024-05-10</time>
                 </div>
             </div>
         </footer>
