@@ -6,7 +6,7 @@
   <link href="https://tskfok.github.io/atom.xml" rel="self"/>
   
   <link href="https://tskfok.github.io/"/>
-  <updated>2024-04-15T05:33:56.982Z</updated>
+  <updated>2024-05-31T06:15:47.864Z</updated>
   <id>https://tskfok.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决crontab让脚本7分钟执行一次的问题</title>
+    <link href="https://tskfok.github.io/2024/05/31/crontab/"/>
+    <id>https://tskfok.github.io/2024/05/31/crontab/</id>
+    <published>2024-05-31T06:01:54.000Z</published>
+    <updated>2024-05-31T06:15:47.864Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;解决crontab让脚本7分钟执行一次的问题&quot;&gt;&lt;a href=&quot;#解决crontab让脚本7分钟执行一次的问题&quot; class=&quot;headerlink&quot; title=&quot;解决crontab让脚本7分钟执行一次的问题&quot;&gt;&lt;/a&gt;解决crontab让脚本7分钟执行一次的问题&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="疑难杂症" scheme="https://tskfok.github.io/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+  </entry>
   
   <entry>
     <title>linux命令</title>
@@ -372,23 +389,6 @@
     <category term="vue" scheme="https://tskfok.github.io/tags/vue/"/>
     
     <category term="chat-admin" scheme="https://tskfok.github.io/tags/chat-admin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dhparam证书</title>
-    <link href="https://tskfok.github.io/2023/07/05/dhparam/"/>
-    <id>https://tskfok.github.io/2023/07/05/dhparam/</id>
-    <published>2023-07-05T05:29:12.000Z</published>
-    <updated>2023-12-14T09:42:43.322Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;生成2048位的dhparam的证书&quot;&gt;&lt;a href=&quot;#生成2048位的dhparam的证书&quot; class=&quot;headerlink&quot; title=&quot;生成2048位的dhparam的证书&quot;&gt;&lt;/a&gt;生成2048位的dhparam的证书&lt;/h3&gt;</summary>
-    
-    
-    
-    
-    <category term="dhparam" scheme="https://tskfok.github.io/tags/dhparam/"/>
     
   </entry>
   

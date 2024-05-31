@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 15 Apr 2024 05:33:56 GMT</pubDate>
+    <pubDate>Fri, 31 May 2024 06:15:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>解决crontab让脚本7分钟执行一次的问题</title>
+      <link>https://tskfok.github.io/2024/05/31/crontab/</link>
+      <guid>https://tskfok.github.io/2024/05/31/crontab/</guid>
+      <pubDate>Fri, 31 May 2024 06:01:54 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;解决crontab让脚本7分钟执行一次的问题&quot;&gt;&lt;a href=&quot;#解决crontab让脚本7分钟执行一次的问题&quot; class=&quot;headerlink&quot; title=&quot;解决crontab让脚本7分钟执行一次的问题&quot;&gt;&lt;/a&gt;解决crontab让脚本7分钟执行一次的问题&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/">疑难杂症</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/05/31/crontab/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>linux命令</title>
@@ -412,25 +431,6 @@
       
       
       <comments>https://tskfok.github.io/2023/07/05/chat-admin-ui/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>dhparam证书</title>
-      <link>https://tskfok.github.io/2023/07/05/dhparam/</link>
-      <guid>https://tskfok.github.io/2023/07/05/dhparam/</guid>
-      <pubDate>Wed, 05 Jul 2023 05:29:12 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;生成2048位的dhparam的证书&quot;&gt;&lt;a href=&quot;#生成2048位的dhparam的证书&quot; class=&quot;headerlink&quot; title=&quot;生成2048位的dhparam的证书&quot;&gt;&lt;/a&gt;生成2048位的dhparam的证书&lt;/h3&gt;</description>
-      
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/tags/dhparam/">dhparam</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/07/05/dhparam/#disqus_thread</comments>
       
     </item>
     
