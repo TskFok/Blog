@@ -6,7 +6,7 @@
   <link href="https://tskfok.github.io/atom.xml" rel="self"/>
   
   <link href="https://tskfok.github.io/"/>
-  <updated>2024-05-31T06:15:47.864Z</updated>
+  <updated>2024-06-03T03:48:11.760Z</updated>
   <id>https://tskfok.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>docker容器指定网关</title>
+    <link href="https://tskfok.github.io/2024/06/03/docker-vlan/"/>
+    <id>https://tskfok.github.io/2024/06/03/docker-vlan/</id>
+    <published>2024-06-03T03:45:09.000Z</published>
+    <updated>2024-06-03T03:48:11.760Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;docker容器指定网关&quot;&gt;&lt;a href=&quot;#docker容器指定网关&quot; class=&quot;headerlink&quot; title=&quot;docker容器指定网关&quot;&gt;&lt;/a&gt;docker容器指定网关&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="docker" scheme="https://tskfok.github.io/categories/docker/"/>
+    
+    
+    <category term="docker" scheme="https://tskfok.github.io/tags/docker/"/>
+    
+  </entry>
   
   <entry>
     <title>解决crontab让脚本7分钟执行一次的问题</title>
@@ -38,7 +57,7 @@
     <link href="https://tskfok.github.io/2024/04/15/linux/"/>
     <id>https://tskfok.github.io/2024/04/15/linux/</id>
     <published>2024-04-15T04:13:00.000Z</published>
-    <updated>2024-04-15T05:33:56.982Z</updated>
+    <updated>2024-06-03T03:46:24.105Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;linux命令&quot;&gt;&lt;a href=&quot;#linux命令&quot; class=&quot;headerlink&quot; title=&quot;linux命令&quot;&gt;&lt;/a&gt;linux命令&lt;/h3&gt;</summary>
@@ -370,25 +389,6 @@
     <category term="vue" scheme="https://tskfok.github.io/tags/vue/"/>
     
     <category term="chat" scheme="https://tskfok.github.io/tags/chat/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>chat-admin-ui</title>
-    <link href="https://tskfok.github.io/2023/07/05/chat-admin-ui/"/>
-    <id>https://tskfok.github.io/2023/07/05/chat-admin-ui/</id>
-    <published>2023-07-05T07:18:13.000Z</published>
-    <updated>2023-12-14T09:42:43.322Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;使用docker部署chat-admin后台ui&quot;&gt;&lt;a href=&quot;#使用docker部署chat-admin后台ui&quot; class=&quot;headerlink&quot; title=&quot;使用docker部署chat-admin后台ui&quot;&gt;&lt;/a&gt;使用docker部署chat-admin后台ui&lt;/h3&gt;</summary>
-    
-    
-    
-    
-    <category term="vue" scheme="https://tskfok.github.io/tags/vue/"/>
-    
-    <category term="chat-admin" scheme="https://tskfok.github.io/tags/chat-admin/"/>
     
   </entry>
   
