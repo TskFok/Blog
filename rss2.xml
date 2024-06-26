@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 03 Jun 2024 03:48:11 GMT</pubDate>
+    <pubDate>Wed, 26 Jun 2024 06:55:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>doctrine使用注意</title>
+      <link>https://tskfok.github.io/2024/06/26/doctrine/</link>
+      <guid>https://tskfok.github.io/2024/06/26/doctrine/</guid>
+      <pubDate>Wed, 26 Jun 2024 06:52:49 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;使用doctrine时候需要注意的点&quot;&gt;&lt;a href=&quot;#使用doctrine时候需要注意的点&quot; class=&quot;headerlink&quot; title=&quot;使用doctrine时候需要注意的点&quot;&gt;&lt;/a&gt;使用doctrine时候需要注意的点&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/doctrine/">doctrine</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/06/26/doctrine/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>docker容器指定网关</title>
@@ -410,27 +429,6 @@
       
       
       <comments>https://tskfok.github.io/2023/07/05/docker-redis/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>chat-ui</title>
-      <link>https://tskfok.github.io/2023/07/05/chat-ui/</link>
-      <guid>https://tskfok.github.io/2023/07/05/chat-ui/</guid>
-      <pubDate>Wed, 05 Jul 2023 07:19:13 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;使用docker部署chat-ui&quot;&gt;&lt;a href=&quot;#使用docker部署chat-ui&quot; class=&quot;headerlink&quot; title=&quot;使用docker部署chat-ui&quot;&gt;&lt;/a&gt;使用docker部署chat-ui&lt;/h3&gt;</description>
-      
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/tags/vue/">vue</category>
-      
-      <category domain="https://tskfok.github.io/tags/chat/">chat</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/07/05/chat-ui/#disqus_thread</comments>
       
     </item>
     
