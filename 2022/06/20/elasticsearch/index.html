@@ -24,7 +24,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://tskfok.github.io/2022/06/20/elasticsearch/https:/img.adiosat.com/elasticsearch/elasticsearch.png">
 <meta property="article:published_time" content="2022-06-20T05:56:35.000Z">
-<meta property="article:modified_time" content="2024-06-27T10:32:54.518Z">
+<meta property="article:modified_time" content="2024-06-27T11:33:15.929Z">
 <meta property="article:author" content="Y Y">
 <meta property="article:tag" content="elasticsearch">
 <meta name="twitter:card" content="summary">
@@ -385,7 +385,7 @@
                     <i class="fa fa-edit"></i> 
                     
                     
-                        ~3.31K
+                        ~3.29K
                     
                     字
                 </li>
@@ -395,7 +395,7 @@
         <div class="kratos-post-content">
             <div id="expire-alert" class="alert alert-warning hidden" role="alert">
                 <div class="icon"><i class="fa fa-warning"></i></div>
-                <div class="text"><p>本文最后编辑于 <time datetime="1719484374518"></time> 前，其中的内容可能需要更新。</p></div>
+                <div class="text"><p>本文最后编辑于 <time datetime="1719487995929"></time> 前，其中的内容可能需要更新。</p></div>
             </div>
             
             <hr />
@@ -403,7 +403,7 @@
 
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">注意: 不要使用_id排序，性能很差</span><br></pre></td></tr></table></figure>
 
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">将index1中的数据重新索引到index2中,使用index2的数据类型</span><br><span class="line">POST _reindex?wait_for_completion=false</span><br><span class="line">&#123;</span><br><span class="line">  &quot;source&quot;: &#123;</span><br><span class="line">    &quot;index&quot;: &quot;index1&quot;</span><br><span class="line">  &#125;,</span><br><span class="line">  &quot;dest&quot;: &#123;</span><br><span class="line">    &quot;index&quot;: &quot;index2&quot;,</span><br><span class="line">    &quot;op_type&quot;: &quot;create&quot; //防止_id修改</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">将index1中的数据重新索引到index2中,使用index2的数据类型,记得查看_id是否被修改,有时候_id不变,有时候会被修改</span><br><span class="line">POST _reindex?wait_for_completion=false</span><br><span class="line">&#123;</span><br><span class="line">  &quot;source&quot;: &#123;</span><br><span class="line">    &quot;index&quot;: &quot;index1&quot;</span><br><span class="line">  &#125;,</span><br><span class="line">  &quot;dest&quot;: &#123;</span><br><span class="line">    &quot;index&quot;: &quot;index2&quot;,</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">更新，如果&quot;售后字段不存在&quot;，则更新为0</span><br><span class="line">POST prod_alipay_settlement_detail/_update_by_query?wait_for_completion=false</span><br><span class="line">&#123;</span><br><span class="line">  &quot;script&quot;: &#123;</span><br><span class="line">    &quot;source&quot;: &quot;ctx._source[&#x27;售后&#x27;] = 0&quot;,</span><br><span class="line">    &quot;lang&quot;: &quot;painless&quot;</span><br><span class="line">  &#125;,</span><br><span class="line">  &quot;query&quot;: &#123;</span><br><span class="line">    &quot;bool&quot;: &#123;</span><br><span class="line">      &quot;must_not&quot;: [</span><br><span class="line">        &#123;</span><br><span class="line">          &quot;exists&quot;: &#123;</span><br><span class="line">            &quot;field&quot;: &quot;售后&quot;</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;</span><br><span class="line">      ]</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
@@ -436,7 +436,7 @@
                     <a class="tag-none-link" href="/tags/elasticsearch/" rel="tag">elasticsearch</a>
                 </div>
                 <div class="pull-date">
-                    <time datetime="2024-06-27T10:32:54.518Z" itemprop="dateModified">最后编辑：2024-06-27</time>
+                    <time datetime="2024-06-27T11:33:15.929Z" itemprop="dateModified">最后编辑：2024-06-27</time>
                 </div>
             </div>
         </footer>
