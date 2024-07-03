@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 26 Jun 2024 06:55:35 GMT</pubDate>
+    <pubDate>Wed, 03 Jul 2024 03:37:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>cve</title>
+      <link>https://tskfok.github.io/2024/07/03/cve/</link>
+      <guid>https://tskfok.github.io/2024/07/03/cve/</guid>
+      <pubDate>Wed, 03 Jul 2024 03:20:14 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;漏洞&quot;&gt;&lt;a href=&quot;#漏洞&quot; class=&quot;headerlink&quot; title=&quot;漏洞&quot;&gt;&lt;/a&gt;漏洞&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/%E6%BC%8F%E6%B4%9E/">漏洞</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/07/03/cve/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>doctrine使用注意</title>
@@ -410,25 +429,6 @@
       
       
       <comments>https://tskfok.github.io/2023/07/28/unraid-dsm/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>docker-redis</title>
-      <link>https://tskfok.github.io/2023/07/05/docker-redis/</link>
-      <guid>https://tskfok.github.io/2023/07/05/docker-redis/</guid>
-      <pubDate>Wed, 05 Jul 2023 09:28:56 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;在docker中搭建redis&quot;&gt;&lt;a href=&quot;#在docker中搭建redis&quot; class=&quot;headerlink&quot; title=&quot;在docker中搭建redis&quot;&gt;&lt;/a&gt;在docker中搭建redis&lt;/h3&gt;</description>
-      
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/tags/redis/">redis</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/07/05/docker-redis/#disqus_thread</comments>
       
     </item>
     
