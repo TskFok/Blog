@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 03 Jul 2024 03:37:14 GMT</pubDate>
+    <pubDate>Tue, 09 Jul 2024 11:12:30 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>服务器报错</title>
+      <link>https://tskfok.github.io/2024/07/09/server-error/</link>
+      <guid>https://tskfok.github.io/2024/07/09/server-error/</guid>
+      <pubDate>Tue, 09 Jul 2024 11:10:11 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;报错排查&quot;&gt;&lt;a href=&quot;#报错排查&quot; class=&quot;headerlink&quot; title=&quot;报错排查&quot;&gt;&lt;/a&gt;报错排查&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/linxu/">linxu</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/07/09/server-error/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>cve</title>
@@ -406,29 +425,6 @@
       
       
       <comments>https://tskfok.github.io/2023/07/28/unraid-openwrt/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>unraid安装黑群晖</title>
-      <link>https://tskfok.github.io/2023/07/28/unraid-dsm/</link>
-      <guid>https://tskfok.github.io/2023/07/28/unraid-dsm/</guid>
-      <pubDate>Fri, 28 Jul 2023 06:33:22 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;unraid安装黑群晖&quot;&gt;&lt;a href=&quot;#unraid安装黑群晖&quot; class=&quot;headerlink&quot; title=&quot;unraid安装黑群晖&quot;&gt;&lt;/a&gt;unraid安装黑群晖&lt;/h3&gt;</description>
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
-      
-      
-      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
-      
-      <category domain="https://tskfok.github.io/tags/dsm/">dsm</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/07/28/unraid-dsm/#disqus_thread</comments>
       
     </item>
     

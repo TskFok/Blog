@@ -6,7 +6,7 @@
   <link href="https://tskfok.github.io/atom.xml" rel="self"/>
   
   <link href="https://tskfok.github.io/"/>
-  <updated>2024-07-03T03:37:14.699Z</updated>
+  <updated>2024-07-09T11:12:30.921Z</updated>
   <id>https://tskfok.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>服务器报错</title>
+    <link href="https://tskfok.github.io/2024/07/09/server-error/"/>
+    <id>https://tskfok.github.io/2024/07/09/server-error/</id>
+    <published>2024-07-09T11:10:11.000Z</published>
+    <updated>2024-07-09T11:12:30.921Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;报错排查&quot;&gt;&lt;a href=&quot;#报错排查&quot; class=&quot;headerlink&quot; title=&quot;报错排查&quot;&gt;&lt;/a&gt;报错排查&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="linxu" scheme="https://tskfok.github.io/tags/linxu/"/>
+    
+  </entry>
   
   <entry>
     <title>cve</title>
@@ -366,27 +383,6 @@
     <category term="unraid" scheme="https://tskfok.github.io/tags/unraid/"/>
     
     <category term="openwrt" scheme="https://tskfok.github.io/tags/openwrt/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>unraid安装黑群晖</title>
-    <link href="https://tskfok.github.io/2023/07/28/unraid-dsm/"/>
-    <id>https://tskfok.github.io/2023/07/28/unraid-dsm/</id>
-    <published>2023-07-28T06:33:22.000Z</published>
-    <updated>2023-12-14T09:42:43.323Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;unraid安装黑群晖&quot;&gt;&lt;a href=&quot;#unraid安装黑群晖&quot; class=&quot;headerlink&quot; title=&quot;unraid安装黑群晖&quot;&gt;&lt;/a&gt;unraid安装黑群晖&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="nas" scheme="https://tskfok.github.io/categories/nas/"/>
-    
-    
-    <category term="unraid" scheme="https://tskfok.github.io/tags/unraid/"/>
-    
-    <category term="dsm" scheme="https://tskfok.github.io/tags/dsm/"/>
     
   </entry>
   
