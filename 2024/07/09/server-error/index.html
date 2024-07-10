@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <meta name="format-detection" content="telphone=no, email=no" />
   
-    <meta name="keywords" content="linxu" />
+    <meta name="keywords" content="报错排查" />
   
   <meta name="description" content="报错排查">
 <meta property="og:type" content="article">
@@ -23,9 +23,9 @@
 <meta property="og:description" content="报错排查">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-07-09T11:10:11.000Z">
-<meta property="article:modified_time" content="2024-07-09T11:12:30.921Z">
+<meta property="article:modified_time" content="2024-07-10T03:47:44.866Z">
 <meta property="article:author" content="Y Y">
-<meta property="article:tag" content="linxu">
+<meta property="article:tag" content="报错排查">
 <meta name="twitter:card" content="summary">
   
   <!-- 站点验证相关 -->
@@ -387,7 +387,7 @@
                     <i class="fa fa-edit"></i> 
                     
                     
-                        40
+                        173
                     
                     字
                 </li>
@@ -397,7 +397,7 @@
         <div class="kratos-post-content">
             <div id="expire-alert" class="alert alert-warning hidden" role="alert">
                 <div class="icon"><i class="fa fa-warning"></i></div>
-                <div class="text"><p>本文最后编辑于 <time datetime="1720523550921"></time> 前，其中的内容可能需要更新。</p></div>
+                <div class="text"><p>本文最后编辑于 <time datetime="1720583264866"></time> 前，其中的内容可能需要更新。</p></div>
             </div>
             
             <hr />
@@ -405,7 +405,7 @@
 
 <h1>返回500，报错时有时无</h1>
 
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">df -i 查看inode是否100%</span><br></pre></td></tr></table></figure></div>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">df -i 查看inode是否100%</span><br><span class="line"></span><br><span class="line">查看/var目录下的inode使用数量,这边/var可以换成任何目录</span><br><span class="line">sudo find /var -xdev -printf &#x27;%h\n&#x27; | sort | uniq -c | sort -rn</span><br><span class="line"></span><br><span class="line">删除inode数量过多目录的文件，或者打包</span><br></pre></td></tr></table></figure></div>
         </div>
         
         <footer class="kratos-entry-footer clearfix">
@@ -413,10 +413,10 @@
             <div class="footer-tag clearfix">
                 <div class="pull-left">
                 <i class="fa fa-tags"></i>
-                    <a class="tag-none-link" href="/tags/linxu/" rel="tag">linxu</a>
+                    <a class="tag-none-link" href="/tags/%E6%8A%A5%E9%94%99%E6%8E%92%E6%9F%A5/" rel="tag">报错排查</a>
                 </div>
                 <div class="pull-date">
-                    <time datetime="2024-07-09T11:12:30.921Z" itemprop="dateModified">最后编辑：2024-07-09</time>
+                    <time datetime="2024-07-10T03:47:44.866Z" itemprop="dateModified">最后编辑：2024-07-10</time>
                 </div>
             </div>
         </footer>
