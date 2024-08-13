@@ -15,8 +15,27 @@
     <atom:link href="https://tskfok.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 10 Jul 2024 03:47:44 GMT</pubDate>
+    <pubDate>Tue, 13 Aug 2024 09:46:24 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>linux开启smb</title>
+      <link>https://tskfok.github.io/2024/08/13/smb/</link>
+      <guid>https://tskfok.github.io/2024/08/13/smb/</guid>
+      <pubDate>Tue, 13 Aug 2024 09:30:56 GMT</pubDate>
+      
+      <description>&lt;h3 id=&quot;linux开启smb-unraid中挂载linux&quot;&gt;&lt;a href=&quot;#linux开启smb-unraid中挂载linux&quot; class=&quot;headerlink&quot; title=&quot;linux开启smb,unraid中挂载linux&quot;&gt;&lt;/a&gt;linux开启smb,unraid中挂载linux&lt;/h3&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="https://tskfok.github.io/tags/smb/">smb</category>
+      
+      
+      <comments>https://tskfok.github.io/2024/08/13/smb/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>服务器报错</title>
@@ -402,29 +421,6 @@
       
       
       <comments>https://tskfok.github.io/2023/07/28/unraid-debian/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>unraid安装openwrt</title>
-      <link>https://tskfok.github.io/2023/07/28/unraid-openwrt/</link>
-      <guid>https://tskfok.github.io/2023/07/28/unraid-openwrt/</guid>
-      <pubDate>Fri, 28 Jul 2023 06:53:32 GMT</pubDate>
-      
-      <description>&lt;h3 id=&quot;unraid安装openwrt&quot;&gt;&lt;a href=&quot;#unraid安装openwrt&quot; class=&quot;headerlink&quot; title=&quot;unraid安装openwrt&quot;&gt;&lt;/a&gt;unraid安装openwrt&lt;/h3&gt;</description>
-      
-      
-      
-      
-      <category domain="https://tskfok.github.io/categories/nas/">nas</category>
-      
-      
-      <category domain="https://tskfok.github.io/tags/unraid/">unraid</category>
-      
-      <category domain="https://tskfok.github.io/tags/openwrt/">openwrt</category>
-      
-      
-      <comments>https://tskfok.github.io/2023/07/28/unraid-openwrt/#disqus_thread</comments>
       
     </item>
     

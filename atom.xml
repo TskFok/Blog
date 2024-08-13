@@ -6,7 +6,7 @@
   <link href="https://tskfok.github.io/atom.xml" rel="self"/>
   
   <link href="https://tskfok.github.io/"/>
-  <updated>2024-07-10T03:47:44.866Z</updated>
+  <updated>2024-08-13T09:46:24.223Z</updated>
   <id>https://tskfok.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux开启smb</title>
+    <link href="https://tskfok.github.io/2024/08/13/smb/"/>
+    <id>https://tskfok.github.io/2024/08/13/smb/</id>
+    <published>2024-08-13T09:30:56.000Z</published>
+    <updated>2024-08-13T09:46:24.223Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;linux开启smb-unraid中挂载linux&quot;&gt;&lt;a href=&quot;#linux开启smb-unraid中挂载linux&quot; class=&quot;headerlink&quot; title=&quot;linux开启smb,unraid中挂载linux&quot;&gt;&lt;/a&gt;linux开启smb,unraid中挂载linux&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="smb" scheme="https://tskfok.github.io/tags/smb/"/>
+    
+  </entry>
   
   <entry>
     <title>服务器报错</title>
@@ -362,27 +379,6 @@
     <category term="unraid" scheme="https://tskfok.github.io/tags/unraid/"/>
     
     <category term="debian" scheme="https://tskfok.github.io/tags/debian/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>unraid安装openwrt</title>
-    <link href="https://tskfok.github.io/2023/07/28/unraid-openwrt/"/>
-    <id>https://tskfok.github.io/2023/07/28/unraid-openwrt/</id>
-    <published>2023-07-28T06:53:32.000Z</published>
-    <updated>2023-12-14T09:42:43.323Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;unraid安装openwrt&quot;&gt;&lt;a href=&quot;#unraid安装openwrt&quot; class=&quot;headerlink&quot; title=&quot;unraid安装openwrt&quot;&gt;&lt;/a&gt;unraid安装openwrt&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="nas" scheme="https://tskfok.github.io/categories/nas/"/>
-    
-    
-    <category term="unraid" scheme="https://tskfok.github.io/tags/unraid/"/>
-    
-    <category term="openwrt" scheme="https://tskfok.github.io/tags/openwrt/"/>
     
   </entry>
   
