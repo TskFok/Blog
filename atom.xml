@@ -6,7 +6,7 @@
   <link href="https://tskfok.github.io/atom.xml" rel="self"/>
   
   <link href="https://tskfok.github.io/"/>
-  <updated>2024-08-13T09:48:26.214Z</updated>
+  <updated>2024-08-22T06:44:23.984Z</updated>
   <id>https://tskfok.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>macos-php</title>
+    <link href="https://tskfok.github.io/2024/08/22/macos-php/"/>
+    <id>https://tskfok.github.io/2024/08/22/macos-php/</id>
+    <published>2024-08-22T06:12:38.000Z</published>
+    <updated>2024-08-22T06:44:23.984Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;在macos中安装php7-1&quot;&gt;&lt;a href=&quot;#在macos中安装php7-1&quot; class=&quot;headerlink&quot; title=&quot;在macos中安装php7.1&quot;&gt;&lt;/a&gt;在macos中安装php7.1&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="macos" scheme="https://tskfok.github.io/tags/macos/"/>
+    
+  </entry>
   
   <entry>
     <title>linux开启smb</title>
@@ -358,27 +375,6 @@
     <category term="unraid" scheme="https://tskfok.github.io/tags/unraid/"/>
     
     <category term="ddnsto" scheme="https://tskfok.github.io/tags/ddnsto/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>unraid安装debian</title>
-    <link href="https://tskfok.github.io/2023/07/28/unraid-debian/"/>
-    <id>https://tskfok.github.io/2023/07/28/unraid-debian/</id>
-    <published>2023-07-28T07:10:14.000Z</published>
-    <updated>2023-12-14T09:42:43.323Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;unraid安装debian&quot;&gt;&lt;a href=&quot;#unraid安装debian&quot; class=&quot;headerlink&quot; title=&quot;unraid安装debian&quot;&gt;&lt;/a&gt;unraid安装debian&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="nas" scheme="https://tskfok.github.io/categories/nas/"/>
-    
-    
-    <category term="unraid" scheme="https://tskfok.github.io/tags/unraid/"/>
-    
-    <category term="debian" scheme="https://tskfok.github.io/tags/debian/"/>
     
   </entry>
   
